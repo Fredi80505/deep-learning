@@ -1,4 +1,4 @@
-📊Interface streamlit pour TP 3 et TP 4
+📊Interface streamlit pour des prédictions interactives
 
 
 
