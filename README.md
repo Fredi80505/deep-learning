@@ -115,5 +115,3 @@ Dans l'interface qui s'affiche, il est possible de charger une image à partir d
 
 
 *Auteur*: **BARGO Alfred**
-
-*Enseignant*: **Dr Poulmanogo ILLY**
